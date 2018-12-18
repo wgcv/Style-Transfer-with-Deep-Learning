@@ -6,3 +6,6 @@ This Notebook is based on the paper Image Style Transfer Using Convolutional Neu
 
 ## Result
 ![Result](https://github.com/wgcv/Style-Transfer-with-Deep-Learning/blob/master/res/cat_guayasamin%20(1).jpg?raw=true)
+
+## Project
+[The code](https://github.com/wgcv/Style-Transfer-with-Deep-Learning/blob/master/Transfer_Style.ipynb)
